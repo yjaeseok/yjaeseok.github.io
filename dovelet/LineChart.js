@@ -414,6 +414,10 @@ class LineChart {
     label.appendChild(text);
     input.setAttribute("type", "checkbox");
     input.setAttribute("checked", "checked");
+    input.setAttribute("disabled", "true");
+    label.onclick = function() {
+      window.open(`http://59.23.150.58/nocrawl/usts.php?uid=${chart}`);
+    };
     container.node.appendChild(label);
   }
 

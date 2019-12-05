@@ -15,20 +15,36 @@
         "y1",
         64,
         64
+      ],
+      [
+        "y2",
+        0,
+        0
+      ],
+      [
+        "y3",
+        0,
+        0
       ]
     ],
     "types": {
       "y0": "line",
       "y1": "line",
+      "y2": "line",
+      "y3": "line",
       "x": "x"
     },
     "names": {
       "y0": "yjaeseok",
-      "y1": "bee1st"
+      "y1": "bee1st",
+      "y2": "renomahr2",
+      "y3": "sungchan41"
     },
     "colors": {
-      "y0": "#3DC23F",
-      "y1": "#F34C44"
+      "y0": "#cb513a",
+      "y1": "#73c03a",
+      "y2": "#65b9ac",
+      "y3": "#4682b4"
     }
   }
 ]
