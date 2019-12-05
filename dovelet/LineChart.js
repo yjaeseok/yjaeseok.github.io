@@ -402,7 +402,7 @@ class LineChart {
     const { container } = nodes;
     const label = document.createElement("label");
     const text = document.createElement("span");
-    text.innerText = `graph ${chart}`;
+    text.innerText = `${chart}`;
     const icon = document.createElement("div");
     icon.classList.add(`${this.classNamePrefix}-checkmark-icon`);
     icon.style.borderColor = color;
