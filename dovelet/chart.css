@@ -1,0 +1,117 @@
+.tgLineChart-header h2 {
+	padding-left: 20px;
+	margin: 0;
+}
+
+.tgLineChart-container {
+	width: 100%;
+	padding-bottom: 24px;
+}
+
+.tgLineChart-container:first-of-type {
+	padding-top: 24px;
+}
+
+.tgLineChart-container.tgLineChart-dark {
+	color: #fff;
+	background-color: #242F3E;
+}
+
+.tgLineChart-container canvas {
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	-ms-touch-action: none;
+	touch-action: none;
+}
+
+.tgLineChart-control {
+	margin: 20px 0 0 0;
+	height: 47px;
+	box-sizing: border-box;
+	display: inline-block;
+	border: 2px solid #edeff1;
+	border-radius: 24px;
+	padding: 8px 12px;
+	font-size: 18px;
+	cursor: pointer;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	-ms-touch-action: none;
+	touch-action: none;
+}
+
+.tgLineChart-container.tgLineChart-dark .tgLineChart-control {
+	border-color: #2F3C4C;
+}
+
+.tgLineChart-control:first-of-type {
+	margin-left: 20px;
+}
+
+.tgLineChart-control span {
+	display: inline-block;
+	vertical-align: top;
+	line-height: 28px;
+}
+
+.tgLineChart-control:not(:last-of-type) {
+	margin-right: 10px;
+}
+
+.tgLineChart-checkmark-icon {
+	position: relative;
+	display: inline-block;
+	border-radius: 50%;
+	margin-right: 10px;
+	width: 28px;
+	height: 28px;
+	border-style: solid;
+	box-sizing: border-box;
+	-webkit-transition: 200ms border ease-out;
+	-o-transition: 200ms border ease-out;
+	transition: 200ms border ease-out;
+	border-width: 2px;
+	-webkit-transform-origin: center;
+	-ms-transform-origin: center;
+	transform-origin: center;
+}
+
+.tgLineChart-checkmark-icon:before {
+	position: absolute;
+	display: inline-block;
+	content: '';
+	width: 5px;
+	height: 10px;
+	border-bottom: 3px solid #fff;
+	border-right: 3px solid #fff;
+	top: calc(50% - 1px);
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%) rotate(45deg);
+	-ms-transform: translate(-50%, -50%) rotate(45deg);
+	transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.tgLineChart-control input[type=checkbox] {
+	width: 0;
+	height: 0;
+	opacity: 0;
+	position: absolute;
+}
+
+.tgLineChart-control input[type=checkbox]:checked ~ .tgLineChart-checkmark-icon  {
+	border-width: 14px;
+}
+
+.tgLineChart-container.tgLineChart-dark .tgLineChart-control input[type=checkbox]:not(:checked) ~ .tgLineChart-checkmark-icon:before  {
+	border-color: #242F3E;
+}
+
