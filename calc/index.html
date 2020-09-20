@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>귀찮은 덧셈</title>
+	<script>
+		var doSum = function(){
+			var str = document.getElementById("data").value;
+            let re = new RegExp('[0-9,]+')
+            
+            var sum = 0
+            var exp = ""
+            
+            while (r = re.exec(s)) {
+                num = r[0]
+                s = s.replace(num, "")
+                num = num.replace(",", "")
+                if (exp == "") {
+                    exp = num
+                } else {
+                    exp += " + " + num
+                }
+                sum += parseInt(num)
+            }
+            exp += " = " + sum
+            document.getElementById("output").value = sum;
+            alert(exp)
+		}
+
+	</script>
+
+</head>
+
+<body>
+	<textarea id="data" name="data" rows="4" cols="50">
+	<button onclick="doSum()">=</button>
+	<input id="output" type="text"/>
+</body>
+</html>
