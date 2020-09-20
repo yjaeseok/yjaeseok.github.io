@@ -5,7 +5,7 @@
 	<title>귀찮은 덧셈</title>
 	<script>
 		var doSum = function(){
-			var s = document.getElementById("data").value;
+			var s = document.getElementById("mytextarea").value;
             let re = new RegExp('[0-9,]+')
             
             var sum = 0
@@ -23,7 +23,7 @@
                 sum += parseInt(num)
             }
             exp += " = " + sum
-            document.getElementById("output").value = sum;
+            document.getElementById("myoutput").value = sum;
             alert(exp)
 		}
 
@@ -32,8 +32,8 @@
 </head>
 
 <body>
-	<textarea id="data" name="data" rows="4" cols="50"></textarea>
+	<textarea id="mytextarea" name="data" rows="4" cols="50"></textarea>
 	<button onclick="doSum()">=</button>
-	<input id="output" type="text"/>
+	<input id="myoutput" type="text"/>
 </body>
 </html>
