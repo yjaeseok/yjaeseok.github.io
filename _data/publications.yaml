@@ -3,7 +3,6 @@ papers:
 papers:
 
   - title: "Adapting Text-based Dialogue State Tracker for Spoken Dialogues"
-    year: "2022"
     #image: "/assets/publications/2022_emnlp/ropt.png"
     authors: "<b><u>Jaeseok Yoon*</u></b>, Seunghyun Hwang*, Ran Han, Jeonguk Bang, Kee-Eung Kim"
     venue: "SIGDIAL x INLG 2023 Worshop: Dialogue State Tracking Challenge 11"
@@ -13,7 +12,6 @@ papers:
     selected: y
 
   - title: "DOWELL: Dwell-time Based Smartphone Control Solution for People with Upper Limb Disabilities"
-    year: "2015"
     #image: "/assets/publications/2022_emnlp/ropt.png"
     authors: "Hyunjin Ahn, <b><u>Jaeseok Yoon</u></b>, Gulji Chung, Kibum Kim, Jiyeon Ma, Hyunbin Choi, Donguk Jung, Joongseek Lee"
     venue: "ACM CHI2015"
@@ -23,7 +21,6 @@ papers:
     selected: y
   
   - title: "Smartphone control solution based on Dwell for people with upper limb disorders"
-    year: "2014"
     #image: "/assets/publications/2022_emnlp/ropt.png"
     authors: "Hyunjin Ahn, <b><u>Jaeseok Yoon</u></b>, Kibum Kim, Gulji Chung, Hyunbin Choi, Jiyeon Ma"
     venue: "HCIK 2015"

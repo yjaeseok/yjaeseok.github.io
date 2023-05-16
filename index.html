@@ -77,9 +77,9 @@ layout: default
 
   <div class="tab-content">
     <div class="tab-pane active" id="papers-selected">
-      {% assign selected_papers = site.data.publications.papers | where: "selected", "y" %}
-      {% for paper in selected_papers %}
         <div class="paper">
+          {% assign selected_papers = site.data.publications.papers | where: "selected", "y" %}
+          {% for paper in selected_papers %}
           <div class="row">
             <!--
             <div class="four columns">
@@ -89,9 +89,7 @@ layout: default
             </div>
             -->
             <div class="twelve columns">
-              {% if paper.year %}
-                <p><h5>{{ paper.year }}</h5><hr /></p>
-              {% endif %}
+              <br />
               <p class="title"><b>{{ paper.title }}</b></p>
               <p>{{ paper.authors }}</p>
               <p><i>{{ paper.venue }}</i></p>
@@ -122,8 +120,8 @@ layout: default
               </div>
             </div>
           </div>       
+          {% endfor %}
         </div>
-      {% endfor %}
       <h6><b><i>( * indicates equal contribution )</i></b></h6>
     </div>    
 </div>
