@@ -1,12 +1,33 @@
 papers:
 
-  - title: "Retrieval of Soft Prompt Enhances Zero-shot Task Generalization"
-    year: "Preprints"
-    image: "/assets/publications/2022_emnlp/ropt.png"
-    authors: "Seonghyeon Ye, <b><u>Joel Jang</u></b>, Doyoung Kim, Yongrae Jo, Minjoon Seo"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2210.03029"
-    code: "https://github.com/seonghyeonye/RoSPr"
-    twitter: "https://twitter.com/SeonghyeonYe/status/1578239880102281221?s=20&t=SEcE7zooqxlba79QZv6D1A"
+papers:
+
+  - title: "Adapting Text-based Dialogue State Tracker for Spoken Dialogues"
+    year: "2022"
+    #image: "/assets/publications/2022_emnlp/ropt.png"
+    authors: "<b><u>Jaeseok Yoon*</u></b>, Seunghyun Hwang*, Ran Han, Jeonguk Bang, Kee-Eung Kim"
+    venue: "SIGDIAL x INLG 2023 Worshop: Dialogue State Tracking Challenge 11"
+    #paper_pdf: "https://arxiv.org/abs/2210.03029"
+    #code: "https://github.com/seonghyeonye/RoSPr"
+    #twitter: "https://twitter.com/SeonghyeonYe/status/1578239880102281221?s=20&t=SEcE7zooqxlba79QZv6D1A"
     selected: y
-    
+
+  - title: "DOWELL: Dwell-time Based Smartphone Control Solution for People with Upper Limb Disabilities"
+    year: "2015"
+    #image: "/assets/publications/2022_emnlp/ropt.png"
+    authors: "Hyunjin Ahn, <b><u>Jaeseok Yoon</u></b>, Gulji Chung, Kibum Kim, Jiyeon Ma, Hyunbin Choi, Donguk Jung, Joongseek Lee"
+    venue: "CHI 2015"
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/2702613.2732862"
+    #code: "https://github.com/seonghyeonye/RoSPr"
+    #twitter: "https://twitter.com/SeonghyeonYe/status/1578239880102281221?s=20&t=SEcE7zooqxlba79QZv6D1A"
+    selected: y
+  
+  - title: "DOWELL: 상지운동장애인을 위한 Dwell 기반 스마트폰 조작 솔루션"
+    year: "2014"
+    #image: "/assets/publications/2022_emnlp/ropt.png"
+    authors: "Hyunjin Ahn, <b><u>Jaeseok Yoon</u></b>, Kibum Kim, Gulji Chung, Hyunbin Choi, Jiyeon Ma"
+    venue: "HCI KOREA 2015"
+    paper_pdf: "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE06139527"
+    #code: "https://github.com/seonghyeonye/RoSPr"
+    #twitter: "https://twitter.com/SeonghyeonYe/status/1578239880102281221?s=20&t=SEcE7zooqxlba79QZv6D1A"
+    selected: y

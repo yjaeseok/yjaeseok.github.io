@@ -1,5 +1,5 @@
 experiences:
-- place: "KAIST Artificial Intelligence & Probabilistic Reasoning Lab"
+- place: "KAIST AIPR Lab"
   time: "Feb. 2022 - Present"
   title: "M.S. Student (Advisor: Kee-Eung Kim)"
   subtitle: "Working on adaptation of large LMs"
@@ -23,7 +23,7 @@ experiences:
   subtitle: "Alternative military service"
   category: "work"
 
-- place: "Soong-sil University"
+- place: "Soongsil University"
   time: "Mar. 2007 - Feb. 2015"
   title: "B.S. in Computer Science"
   category: "school"
