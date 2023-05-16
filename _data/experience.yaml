@@ -2,7 +2,7 @@ experiences:
 - place: "KAIST AIPR Lab"
   time: "Feb. 2022 - Present"
   title: "M.S. Student (Advisor: Kee-Eung Kim)"
-  subtitle: "Working on adaptation of large LMs"
+  subtitle: "Research about Large Language Models"
   category: "school"
   
 - place: "Samsung Electronics"
@@ -15,6 +15,12 @@ experiences:
   time: "May. 2014 - Nov. 2014"
   title: "Researcher"
   subtitle: "Research about WFMS (Wind Farm Management System) and VPP (Virtual Power Plant)"
+  category: "work"
+
+- place: "Samsung Software Membership"
+  time: "Jul. 2013 - Dec. 2014"
+  title: "Software Developer (Elite Member)"
+  subtitle: "Intership Program"
   category: "work"
 
 - place: "Yonhap Infomax"
