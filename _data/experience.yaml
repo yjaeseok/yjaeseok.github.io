@@ -5,16 +5,16 @@ experiences:
   subtitle: "Working on adaptation of large LMs"
   category: "school"
   
-- place: "Samsung Electronics - Mobile eXperience"
+- place: "Samsung Electronics"
   time: "Feb. 2015 - Present"
-  title: "Staff Engineer (CL3)"
-  subtitle: ""
+  title: "Staff Engineer (CL3) / Mobile eXperience"
+  subtitle: "Implement an AI-based Android app called Bixby and worked as an app developer"
   category: "work"
 
-- place: "Korea Electronics Technology Institute"
+- place: "KETI (Korea Electronics Technology Institute)"
   time: "May. 2014 - Nov. 2014"
   title: "Researcher"
-  subtitle: "WFMS (Wind Farm Management System), VPP (Virtual Power Plant)"
+  subtitle: "Research about WFMS (Wind Farm Management System) and VPP (Virtual Power Plant)"
   category: "work"
 
 - place: "Yonhap Infomax"
