@@ -2,11 +2,20 @@ papers:
 
 papers:
 
+  - title: "Addressing Out-Of-Distribution Joint Actions in Offline Multi-Agent RL via Alternating Stationary Distribution Correction Estimation"
+    #image: "/assets/publications/2022_emnlp/ropt.png"
+    authors: "Daiki E. Matsunaga*, Jongmin Lee*, <b><u>Jaeseok Yoon*</u></b>, Stefanos Leonardos, Pieter Abbeel, Kee-Eung Kim"
+    venue: "In Neural Information Processing Systems (NeurIPS), New Orleans, LA, USA, December 2023"
+    #paper_pdf: "https://arxiv.org/abs/2308.15053"
+    #code: "https://github.com/seonghyeonye/RoSPr"
+    #twitter: "https://twitter.com/SeonghyeonYe/status/1578239880102281221?s=20&t=SEcE7zooqxlba79QZv6D1A"
+    selected: y
+
   - title: "Adapting Text-based Dialogue State Tracker for Spoken Dialogues"
     #image: "/assets/publications/2022_emnlp/ropt.png"
     authors: "<b><u>Jaeseok Yoon*</u></b>, Seunghyun Hwang*, Ran Han, Jeonguk Bang, Kee-Eung Kim"
-    venue: "SIGDIAL x INLG 2023 Worshop: Dialogue State Tracking Challenge 11"
-    #paper_pdf: "https://arxiv.org/abs/2210.03029"
+    venue: "In Special Interest Group on Discourse and Dialogue (SIGDIAL) DSTC11 Workshop (Best Paper), Prague, Czech, September 2023"
+    paper_pdf: "https://arxiv.org/abs/2308.15053"
     #code: "https://github.com/seonghyeonye/RoSPr"
     #twitter: "https://twitter.com/SeonghyeonYe/status/1578239880102281221?s=20&t=SEcE7zooqxlba79QZv6D1A"
     selected: y
@@ -14,7 +23,7 @@ papers:
   - title: "DOWELL: Dwell-time Based Smartphone Control Solution for People with Upper Limb Disabilities"
     #image: "/assets/publications/2022_emnlp/ropt.png"
     authors: "Hyunjin Ahn, <b><u>Jaeseok Yoon</u></b>, Gulji Chung, Kibum Kim, Jiyeon Ma, Hyunbin Choi, Donguk Jung, Joongseek Lee"
-    venue: "ACM CHI2015"
+    venue: "ACM SIGCHI, Seoul, Korea, April 2015"
     paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/2702613.2732862"
     #code: "https://github.com/seonghyeonye/RoSPr"
     #twitter: "https://twitter.com/SeonghyeonYe/status/1578239880102281221?s=20&t=SEcE7zooqxlba79QZv6D1A"
@@ -23,7 +32,7 @@ papers:
   - title: "Smartphone control solution based on Dwell for people with upper limb disorders"
     #image: "/assets/publications/2022_emnlp/ropt.png"
     authors: "Hyunjin Ahn, <b><u>Jaeseok Yoon</u></b>, Kibum Kim, Gulji Chung, Hyunbin Choi, Jiyeon Ma"
-    venue: "HCIK 2015"
+    venue: "HCI Korea, Seoul, Korea, December 2014"
     paper_pdf: "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE06139527"
     #code: "https://github.com/seonghyeonye/RoSPr"
     #twitter: "https://twitter.com/SeonghyeonYe/status/1578239880102281221?s=20&t=SEcE7zooqxlba79QZv6D1A"
