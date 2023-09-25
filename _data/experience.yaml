@@ -2,7 +2,7 @@ experiences:
 - place: "KAIST AIPR Lab"
   time: "Feb. 2022 - Present"
   title: "M.S. Student (Advisor: Kee-Eung Kim)"
-  subtitle: "Research about Large Language Models"
+  subtitle: "Research about Natural Language Processing and Reinforcement Learning"
   category: "school"
   
 - place: "Samsung Electronics"
@@ -20,7 +20,7 @@ experiences:
 - place: "Samsung Software Membership"
   time: "Jul. 2013 - Dec. 2014"
   title: "Software Developer (Elite Member)"
-  subtitle: "Intership Program"
+  subtitle: "Internship Program"
   category: "work"
 
 - place: "Yonhap Infomax"
