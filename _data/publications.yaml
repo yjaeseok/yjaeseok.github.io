@@ -6,7 +6,7 @@ papers:
     #image: "/assets/publications/2022_emnlp/ropt.png"
     authors: "Daiki E. Matsunaga*, Jongmin Lee*, <b><u>Jaeseok Yoon</u></b>, Stefanos Leonardos, Pieter Abbeel, Kee-Eung Kim"
     venue: "In Neural Information Processing Systems (NeurIPS), New Orleans, LA, USA, December 2023"
-    #paper_pdf: "https://arxiv.org/abs/2308.15053"
+    paper_pdf: "https://arxiv.org/abs/2311.02194"
     #code: "https://github.com/seonghyeonye/RoSPr"
     #twitter: "https://twitter.com/SeonghyeonYe/status/1578239880102281221?s=20&t=SEcE7zooqxlba79QZv6D1A"
     selected: y
