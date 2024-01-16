@@ -1,4 +1,12 @@
 papers:
+  - title: "Can Generative Large Language Models Perform Dialogue State Tracker for Spoken Dialogues?"
+    #image: "/assets/publications/2022_emnlp/ropt.png"
+    authors: "<b><u>Jaeseok Yoon</u></b>, Seunghyun Hwang, Kee-Eung Kim"
+    venue: "In The Korean Institutes of Communications and Information Sciences (KICS), Pyeongchang-gun, Gangwon-do, Korea, January 2024"
+    #paper_pdf: "https://arxiv.org/abs/2311.02194"
+    #code: "https://github.com/seonghyeonye/RoSPr"
+    #twitter: "https://twitter.com/SeonghyeonYe/status/1578239880102281221?s=20&t=SEcE7zooqxlba79QZv6D1A"
+    selected: y
 
   - title: "Addressing Out-Of-Distribution Joint Actions in Offline Multi-Agent RL via Alternating Stationary Distribution Correction Estimation"
     #image: "/assets/publications/2022_emnlp/ropt.png"
