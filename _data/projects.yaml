@@ -1,6 +1,6 @@
 projects:
-  - title: 
-    subtitle: 
-    thumbnail: 
-    url: 
+  - title: PassU
+    subtitle: Pass Your USB Devices via Network
+    #thumbnail: 
+    #url: 
     selected: y
