@@ -1,19 +1,20 @@
 experiences:
-- place: "KAIST AIPR Lab"
-  time: "Feb. 2022 - Present"
-  title: "M.S. Student (Advisor: Kee-Eung Kim)"
-  subtitle: "Research about Natural Language Processing and Reinforcement Learning"
-  category: "school"
   
 - place: "Samsung Electronics"
   time: "Feb. 2015 - Present"
-  title: "Staff Engineer (CL3) / Mobile eXperience"
+  title: "Staff Engineer (CL3) / Language AI Team / Mobile eXperience"
   subtitle: "Implement an AI-based Android app called Bixby and worked as an app developer"
   category: "work"
 
+- place: "KAIST AIPR Lab"
+  time: "Feb. 2022 - Feb. 2024"
+  title: "M.S. Student (Advisor: Kee-Eung Kim)"
+  subtitle: "Research about Natural Language Processing and Reinforcement Learning"
+  category: "school"
+
 - place: "KETI (Korea Electronics Technology Institute)"
   time: "May. 2014 - Nov. 2014"
-  title: "Researcher"
+  title: "Researcher / Internet Of Things"
   subtitle: "Research about WFMS (Wind Farm Management System) and VPP (Virtual Power Plant)"
   category: "work"
 
