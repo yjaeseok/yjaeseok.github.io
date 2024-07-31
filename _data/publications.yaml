@@ -3,7 +3,7 @@ papers:
     #image: "/assets/publications/2022_emnlp/ropt.png"
     authors: "<b><u>Jaeseok Yoon</u></b>, Seunghyun Hwang, Kee-Eung Kim"
     venue: "In The Korean Institutes of Communications and Information Sciences (KICS), Pyeongchang-gun, Gangwon-do, Korea, January 2024"
-    #paper_pdf: "https://arxiv.org/abs/2311.02194"
+    paper_pdf: "https://ailab.kaist.ac.kr/papers/pdfs/JSYOON2024.pdf"
     #code: "https://github.com/seonghyeonye/RoSPr"
     #twitter: "https://twitter.com/SeonghyeonYe/status/1578239880102281221?s=20&t=SEcE7zooqxlba79QZv6D1A"
     selected: y
