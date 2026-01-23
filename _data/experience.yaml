@@ -3,13 +3,7 @@ experiences:
 - place: "Samsung Electronics"
   time: "Feb. 2015 - Present"
   title: "Staff Engineer (CL3) / Language AI Team / Mobile eXperience"
-  subtitle: "Bixby Home AI\n\n
-
-Bixby Home Platform (BHP): \n
-BHP is a platform that connects SmartThings with Bixby. My primary role involves leveraging AI to develop LLM models that infer user intent based on user and device contexts.
-\n\n
-Samsung Intelligence Voice Service (SIVS):\n
-This service provides APIs that enable easy integration of on-device and cloud AI services. My contributions are mainly focused on optimizing  scenarios for low-computing devices, such as those running WearOS."
+  subtitle: "Implement an AI-based Android app called Bixby and worked as an app developer"
   category: "work"
 
 - place: "KAIST School of AI"
